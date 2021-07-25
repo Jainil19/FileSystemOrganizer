@@ -8,6 +8,7 @@ let types = {
 
 function organizeFn(src) {
   console.log("organize  command executed with path: " + src);
+  
   // code 
 }
 module.exports = {
