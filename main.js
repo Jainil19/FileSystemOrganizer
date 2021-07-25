@@ -17,7 +17,7 @@ switch (command) {
         helpObj.helpfxn();
         break;
     default:
-        console.log("🙏 kindly enter the correct cmd ");
+        console.log("🙏 kindly enter the correct cmd hello");
         break;
 }
 // main input
